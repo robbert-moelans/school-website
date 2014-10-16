@@ -1,0 +1,68 @@
+#achtergrond
+{
+	height: 90%;
+	width:100%;
+	position: relative;
+	background-image:url("achtergrond2.png");
+	background-repeat: no-repeat;
+}
+#divlogo{
+	background-image:url("comweblogo-big.png");
+	float: left;
+	width: 130px;
+	height: 135px;
+}
+#header
+{
+	background-color: yellow;
+	width:70%;
+	margin:auto;
+	height: 135px;
+}
+#foot
+{
+	background-color: black;
+	height: 10%;
+	width: 100%;
+}
+img
+{
+	float: top;
+	height: 83px;
+	width: 83px;
+}
+#artikel
+{
+	background-color: white;
+	width:70%;
+	height: 400px;
+	margin: 0 15%;
+	position: absolute;
+	bottom: -1;
+	}
+#divlogo
+{
+	display: inline-block;
+}
+#knoppen
+{
+display: inline-block;
+margin: top;
+float: left;
+}
+#linkknoppen
+{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.knop
+{
+	display: inline-block;
+	margin:0px 3px;
+	padding: 5px;
+}
+#tekst
+{
+	color: white;
+ float:right;
+}
